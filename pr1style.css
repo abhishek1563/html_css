@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+}
+
+header {
+    background:#363636;
+    padding: 20px 30%;
+}
+header span{
+    color: white;
+    padding:0 0 0 20px; 
+}
+
+.sec{
+    background: #f2f2f2;
+}
+.sec p{
+    margin: 0;
+    font: bold 20px arial;
+    padding:20px 0;
+    text-align: center;
+    
+}
+
+footer{
+    background:#011926;
+    color: white;
+    text-align: center;
+    padding: 26px 0;
+}
+footer p{
+    padding: 15px 0;
+    
+}
+button{
+background: #F88E37;
+border: 2px solid #F88E37;
+border-radius: 5px;
+width: 30%;
+height:35px;
+font: bold 14px arial ;
+color:white;
+}
+.content-button {
+    width: 35%;
+    height:30px; 
+}
+
+.content{
+    
+    float:left;
+    text-align: center;
+    width: 40%;   
+    padding-top: 3%;
+}
+.image{
+    width:40%;
+    float: left;
+    padding-left: 75px; 
+}
+.sec div{
+    height: 520px ; 
+}
